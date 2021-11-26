@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Taj Mahal, Agra</item>
+        <item>Agra Fort, Uttar Pradesh</item>
+        <item>Red Fort, Delhi</item>
+        <item>Qutub Minar, Delhi</item>
+        <item>Humayun’s Tomb, Delhi</item>
+        <item>Fatehpuri Sikri, Uttar Pradesh</item>
+        <item>Hawa Mahal, Jaipur</item>
+        <item>Khajuraho Temples, Madhya Pradesh</item>
+        <item>Sanchi Stupa, Madhya Pradesh</item>
+        <item>Konark Temple, Odisha</item>
+        <item>Mahabodhi Temple, Bodh Gaya</item>
+        <item>Rani ki Vav, Gujarat</item>
+        <item>Victoria Memorial, Kolkata</item>
+        <item>Jallianwala Bagh, Punjab</item>
+        <item>Gwalior Fort, Madhya Pradesh</item>
+        <item>Golden Temple, Punjab</item>
+        <item>India Gate, Delhi</item>
+        <item>Mehrangarh Fort, Jodhpur</item>
+        <item>Amer Fort, Jaipur</item>
+        <item>Kumbhalgarh Fort, Rajasthan</item>
+        <item>Lakshmi Vilas Palace, Vadodara</item>
+        <item>Gateway of India, Mumbai</item>
+        <item>Ajanta and Ellora Caves, Aurangabad</item>
+        <item>Charminar, Hyderabad</item>
+        <item>Mysore Palace, Karnataka</item>
+        <item>Hampi, Karnataka</item>
+        <item>Chola Temples, Tamil Nadu</item>
+        <item>Mahabalipuram, Tamil Nadu</item>
+        <item>Chhatrapati Shivaji Terminus, Mumbai</item>
+        <item>Gol Gumbaz, Karnataka</item>
+        <item>Cellular Jail, Port Blair</item>
+        <item>Elephanta Caves, Maharasthra</item>
+        <item>Jantar Mantar, Jaipur</item>
+        <item>Golkonda Fort, Hyderabad</item>
+        <item>Bara Imambara, Lucknow</item>
+        <item>Meenakshi Amman Temple, Madurai</item>
+        <item>Halebidu, Karnataka</item>
+        <item>Chittorgarh Fort, Rajasthan</item>
+        <item>Nalanda University, Bihar</item>
+        <item>Churches and Convents, Old Goa</item>
+        <item>Orchha Fort, Madhya Pradesh</item>
+        <item>Bhimbetka Rock Shelters, Madhya Pradesh</item>
+        <item>Champaner Pavagadh Archaeological Park</item>
+
+
+
+    </string-array>
+
+</resources>

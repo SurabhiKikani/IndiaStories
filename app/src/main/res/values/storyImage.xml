@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/07/Agra1.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Agra-Fort-Uttar-Pradesh.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Red-Fort-Delhi.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Qutub-Minar-Delhi.jpg</item>
+        <item>https://assets.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Humayun%E2%80%99s-Tomb-Delhi.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Fatehpuri-Sikri-Uttar-Pradesh1.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Hawa-Mahal-Jaipur.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Khajuraho-Temples-Madhya-Pradesh.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Sanchi-Stupa-Madhya-Pradesh.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Konark-Temple-Odisha.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Mahabodhi-Temple-Bodh-Gaya.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Rani-ki-Vav-Gujarat.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2020/06/Victoria-Memorial.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Jallianwala-Bagh.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Gwalior-Fort.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Golden-Temple.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/India-Gate.jpeg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Mehrangarh-Fort.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Amer-Fort.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Kumbhalgarh-Fort.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Lakshmi-Vilas-Palace.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Gateway-of-India-Mumbai3.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/08/Cave_26_Ajanta.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Charminar-Hyderabad.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Mysore-Palace-Karnataka.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/08/Hampi_virupaksha_temple.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/chola-temples_23rd-oct.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/08/mahabalipuram.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Chhatrapati-Shivaji-Terminus.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Gol-Gumbaz_24th-oct.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/cellular-jail.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Elephanta_Caves_Elephanta_Island_India.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/07/Jantar-Mantar.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Golkonda_Fort_001.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Bara_ImambaraLucknowUttar_PradeshIndia.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/05/og-temple.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/03/Belur-Halebid_stone_relief.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2018/02/Chittorgarh-Fort.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2016/11/Nalanda-University-The-ruins-of-Nalanda-Mahavihara-at-the-Nalanda-University-excavation-site.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2017/06/DAY-3-3.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Orchha-Fort-Complex0310.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/02/Bhimbetka-Rock-Shelters0310.jpg</item>
+        <item>https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/11/Champaner-Pavagadh-Archaeological-Park.jpg</item>
+
+    </string-array>
+</resources>
