@@ -1,10 +1,10 @@
 # story-app-kotlin
 
 This story app helps you to know new stories and have a good time.
-you can experience new stories by reading in depth and have a ball of a time
-this app is very good for small kids who can enjoy and it also helps in improving their knowledge and language.
+You can experience new stories by reading in depth and have a ball of a time.
+This app is very good for small kids who can enjoy and it also helps in improving their knowledge and language.
 
-Output SS: -
+Output Images: -
 
 ![image](https://user-images.githubusercontent.com/95072212/145761356-4dd4b105-937d-48ca-8c6d-af46840e9084.png)
 ![image](https://user-images.githubusercontent.com/95072212/145761586-bbc8500d-44f9-492f-8a21-76e43975c011.png)
